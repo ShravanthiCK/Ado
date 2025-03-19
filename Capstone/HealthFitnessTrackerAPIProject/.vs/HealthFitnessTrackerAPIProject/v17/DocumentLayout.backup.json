@@ -1,0 +1,465 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Wipro\\HealthFitnessTrackerAPIProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CD201A5D-F865-4FA2-A112-95BC5FD7B0A6}|HealthFitnessTrackerAPI\\HealthFitnessTrackerAPI.csproj|d:\\wipro\\healthfitnesstrackerapiproject\\healthfitnesstrackerapi\\controllers\\workoutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD201A5D-F865-4FA2-A112-95BC5FD7B0A6}|HealthFitnessTrackerAPI\\HealthFitnessTrackerAPI.csproj|solutionrelative:healthfitnesstrackerapi\\controllers\\workoutcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD201A5D-F865-4FA2-A112-95BC5FD7B0A6}|HealthFitnessTrackerAPI\\HealthFitnessTrackerAPI.csproj|d:\\wipro\\healthfitnesstrackerapiproject\\healthfitnesstrackerapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CD201A5D-F865-4FA2-A112-95BC5FD7B0A6}|HealthFitnessTrackerAPI\\HealthFitnessTrackerAPI.csproj|solutionrelative:healthfitnesstrackerapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD201A5D-F865-4FA2-A112-95BC5FD7B0A6}|HealthFitnessTrackerAPI\\HealthFitnessTrackerAPI.csproj|d:\\wipro\\healthfitnesstrackerapiproject\\healthfitnesstrackerapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CD201A5D-F865-4FA2-A112-95BC5FD7B0A6}|HealthFitnessTrackerAPI\\HealthFitnessTrackerAPI.csproj|solutionrelative:healthfitnesstrackerapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD201A5D-F865-4FA2-A112-95BC5FD7B0A6}|HealthFitnessTrackerAPI\\HealthFitnessTrackerAPI.csproj|d:\\wipro\\healthfitnesstrackerapiproject\\healthfitnesstrackerapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD201A5D-F865-4FA2-A112-95BC5FD7B0A6}|HealthFitnessTrackerAPI\\HealthFitnessTrackerAPI.csproj|solutionrelative:healthfitnesstrackerapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD201A5D-F865-4FA2-A112-95BC5FD7B0A6}|HealthFitnessTrackerAPI\\HealthFitnessTrackerAPI.csproj|d:\\wipro\\healthfitnesstrackerapiproject\\healthfitnesstrackerapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD201A5D-F865-4FA2-A112-95BC5FD7B0A6}|HealthFitnessTrackerAPI\\HealthFitnessTrackerAPI.csproj|solutionrelative:healthfitnesstrackerapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD201A5D-F865-4FA2-A112-95BC5FD7B0A6}|HealthFitnessTrackerAPI\\HealthFitnessTrackerAPI.csproj|d:\\wipro\\healthfitnesstrackerapiproject\\healthfitnesstrackerapi\\controllers\\caloriecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD201A5D-F865-4FA2-A112-95BC5FD7B0A6}|HealthFitnessTrackerAPI\\HealthFitnessTrackerAPI.csproj|solutionrelative:healthfitnesstrackerapi\\controllers\\caloriecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD201A5D-F865-4FA2-A112-95BC5FD7B0A6}|HealthFitnessTrackerAPI\\HealthFitnessTrackerAPI.csproj|d:\\wipro\\healthfitnesstrackerapiproject\\healthfitnesstrackerapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD201A5D-F865-4FA2-A112-95BC5FD7B0A6}|HealthFitnessTrackerAPI\\HealthFitnessTrackerAPI.csproj|solutionrelative:healthfitnesstrackerapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD201A5D-F865-4FA2-A112-95BC5FD7B0A6}|HealthFitnessTrackerAPI\\HealthFitnessTrackerAPI.csproj|d:\\wipro\\healthfitnesstrackerapiproject\\healthfitnesstrackerapi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD201A5D-F865-4FA2-A112-95BC5FD7B0A6}|HealthFitnessTrackerAPI\\HealthFitnessTrackerAPI.csproj|solutionrelative:healthfitnesstrackerapi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD201A5D-F865-4FA2-A112-95BC5FD7B0A6}|HealthFitnessTrackerAPI\\HealthFitnessTrackerAPI.csproj|d:\\wipro\\healthfitnesstrackerapiproject\\healthfitnesstrackerapi\\models\\calorielog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD201A5D-F865-4FA2-A112-95BC5FD7B0A6}|HealthFitnessTrackerAPI\\HealthFitnessTrackerAPI.csproj|solutionrelative:healthfitnesstrackerapi\\models\\calorielog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD201A5D-F865-4FA2-A112-95BC5FD7B0A6}|HealthFitnessTrackerAPI\\HealthFitnessTrackerAPI.csproj|d:\\wipro\\healthfitnesstrackerapiproject\\healthfitnesstrackerapi\\models\\loginuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD201A5D-F865-4FA2-A112-95BC5FD7B0A6}|HealthFitnessTrackerAPI\\HealthFitnessTrackerAPI.csproj|solutionrelative:healthfitnesstrackerapi\\models\\loginuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD201A5D-F865-4FA2-A112-95BC5FD7B0A6}|HealthFitnessTrackerAPI\\HealthFitnessTrackerAPI.csproj|d:\\wipro\\healthfitnesstrackerapiproject\\healthfitnesstrackerapi\\models\\registeruser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD201A5D-F865-4FA2-A112-95BC5FD7B0A6}|HealthFitnessTrackerAPI\\HealthFitnessTrackerAPI.csproj|solutionrelative:healthfitnesstrackerapi\\models\\registeruser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD201A5D-F865-4FA2-A112-95BC5FD7B0A6}|HealthFitnessTrackerAPI\\HealthFitnessTrackerAPI.csproj|d:\\wipro\\healthfitnesstrackerapiproject\\healthfitnesstrackerapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD201A5D-F865-4FA2-A112-95BC5FD7B0A6}|HealthFitnessTrackerAPI\\HealthFitnessTrackerAPI.csproj|solutionrelative:healthfitnesstrackerapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD201A5D-F865-4FA2-A112-95BC5FD7B0A6}|HealthFitnessTrackerAPI\\HealthFitnessTrackerAPI.csproj|d:\\wipro\\healthfitnesstrackerapiproject\\healthfitnesstrackerapi\\models\\workout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD201A5D-F865-4FA2-A112-95BC5FD7B0A6}|HealthFitnessTrackerAPI\\HealthFitnessTrackerAPI.csproj|solutionrelative:healthfitnesstrackerapi\\models\\workout.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD201A5D-F865-4FA2-A112-95BC5FD7B0A6}|HealthFitnessTrackerAPI\\HealthFitnessTrackerAPI.csproj|d:\\wipro\\healthfitnesstrackerapiproject\\healthfitnesstrackerapi\\migrations\\20250318055146_shravu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD201A5D-F865-4FA2-A112-95BC5FD7B0A6}|HealthFitnessTrackerAPI\\HealthFitnessTrackerAPI.csproj|solutionrelative:healthfitnesstrackerapi\\migrations\\20250318055146_shravu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD201A5D-F865-4FA2-A112-95BC5FD7B0A6}|HealthFitnessTrackerAPI\\HealthFitnessTrackerAPI.csproj|d:\\wipro\\healthfitnesstrackerapiproject\\healthfitnesstrackerapi\\healthfitnesstrackerapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{CD201A5D-F865-4FA2-A112-95BC5FD7B0A6}|HealthFitnessTrackerAPI\\HealthFitnessTrackerAPI.csproj|solutionrelative:healthfitnesstrackerapi\\healthfitnesstrackerapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Wipro\\HealthFitnessTrackerAPIProject\\HealthFitnessTrackerAPI\\Migrations\\20250315152841_AddWorkoutAndCalorieLogs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:HealthFitnessTrackerAPI\\Migrations\\20250315152841_AddWorkoutAndCalorieLogs.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD201A5D-F865-4FA2-A112-95BC5FD7B0A6}|HealthFitnessTrackerAPI\\HealthFitnessTrackerAPI.csproj|d:\\wipro\\healthfitnesstrackerapiproject\\healthfitnesstrackerapi\\migrations\\20250315153249_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD201A5D-F865-4FA2-A112-95BC5FD7B0A6}|HealthFitnessTrackerAPI\\HealthFitnessTrackerAPI.csproj|solutionrelative:healthfitnesstrackerapi\\migrations\\20250315153249_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD201A5D-F865-4FA2-A112-95BC5FD7B0A6}|HealthFitnessTrackerAPI\\HealthFitnessTrackerAPI.csproj|d:\\wipro\\healthfitnesstrackerapiproject\\healthfitnesstrackerapi\\migrations\\20250315171247_addidentitytables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD201A5D-F865-4FA2-A112-95BC5FD7B0A6}|HealthFitnessTrackerAPI\\HealthFitnessTrackerAPI.csproj|solutionrelative:healthfitnesstrackerapi\\migrations\\20250315171247_addidentitytables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD201A5D-F865-4FA2-A112-95BC5FD7B0A6}|HealthFitnessTrackerAPI\\HealthFitnessTrackerAPI.csproj|d:\\wipro\\healthfitnesstrackerapiproject\\healthfitnesstrackerapi\\migrations\\20250315170403_thirdcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD201A5D-F865-4FA2-A112-95BC5FD7B0A6}|HealthFitnessTrackerAPI\\HealthFitnessTrackerAPI.csproj|solutionrelative:healthfitnesstrackerapi\\migrations\\20250315170403_thirdcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD201A5D-F865-4FA2-A112-95BC5FD7B0A6}|HealthFitnessTrackerAPI\\HealthFitnessTrackerAPI.csproj|d:\\wipro\\healthfitnesstrackerapiproject\\healthfitnesstrackerapi\\migrations\\20250315164937_secondcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD201A5D-F865-4FA2-A112-95BC5FD7B0A6}|HealthFitnessTrackerAPI\\HealthFitnessTrackerAPI.csproj|solutionrelative:healthfitnesstrackerapi\\migrations\\20250315164937_secondcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD201A5D-F865-4FA2-A112-95BC5FD7B0A6}|HealthFitnessTrackerAPI\\HealthFitnessTrackerAPI.csproj|d:\\wipro\\healthfitnesstrackerapiproject\\healthfitnesstrackerapi\\migrations\\20250315175636_fixdiscriminator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD201A5D-F865-4FA2-A112-95BC5FD7B0A6}|HealthFitnessTrackerAPI\\HealthFitnessTrackerAPI.csproj|solutionrelative:healthfitnesstrackerapi\\migrations\\20250315175636_fixdiscriminator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD201A5D-F865-4FA2-A112-95BC5FD7B0A6}|HealthFitnessTrackerAPI\\HealthFitnessTrackerAPI.csproj|d:\\wipro\\healthfitnesstrackerapiproject\\healthfitnesstrackerapi\\migrations\\20250315184259_fourthcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD201A5D-F865-4FA2-A112-95BC5FD7B0A6}|HealthFitnessTrackerAPI\\HealthFitnessTrackerAPI.csproj|solutionrelative:healthfitnesstrackerapi\\migrations\\20250315184259_fourthcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD201A5D-F865-4FA2-A112-95BC5FD7B0A6}|HealthFitnessTrackerAPI\\HealthFitnessTrackerAPI.csproj|d:\\wipro\\healthfitnesstrackerapiproject\\healthfitnesstrackerapi\\migrations\\20250316081801_renameid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD201A5D-F865-4FA2-A112-95BC5FD7B0A6}|HealthFitnessTrackerAPI\\HealthFitnessTrackerAPI.csproj|solutionrelative:healthfitnesstrackerapi\\migrations\\20250316081801_renameid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD201A5D-F865-4FA2-A112-95BC5FD7B0A6}|HealthFitnessTrackerAPI\\HealthFitnessTrackerAPI.csproj|d:\\wipro\\healthfitnesstrackerapiproject\\healthfitnesstrackerapi\\migrations\\20250316080844_renamecalorielogid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD201A5D-F865-4FA2-A112-95BC5FD7B0A6}|HealthFitnessTrackerAPI\\HealthFitnessTrackerAPI.csproj|solutionrelative:healthfitnesstrackerapi\\migrations\\20250316080844_renamecalorielogid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD201A5D-F865-4FA2-A112-95BC5FD7B0A6}|HealthFitnessTrackerAPI\\HealthFitnessTrackerAPI.csproj|d:\\wipro\\healthfitnesstrackerapiproject\\healthfitnesstrackerapi\\migrations\\20250316063342_addusername.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD201A5D-F865-4FA2-A112-95BC5FD7B0A6}|HealthFitnessTrackerAPI\\HealthFitnessTrackerAPI.csproj|solutionrelative:healthfitnesstrackerapi\\migrations\\20250316063342_addusername.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD201A5D-F865-4FA2-A112-95BC5FD7B0A6}|HealthFitnessTrackerAPI\\HealthFitnessTrackerAPI.csproj|d:\\wipro\\healthfitnesstrackerapiproject\\healthfitnesstrackerapi\\migrations\\20250316093457_fourth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD201A5D-F865-4FA2-A112-95BC5FD7B0A6}|HealthFitnessTrackerAPI\\HealthFitnessTrackerAPI.csproj|solutionrelative:healthfitnesstrackerapi\\migrations\\20250316093457_fourth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CD201A5D-F865-4FA2-A112-95BC5FD7B0A6}|HealthFitnessTrackerAPI\\HealthFitnessTrackerAPI.csproj|d:\\wipro\\healthfitnesstrackerapiproject\\healthfitnesstrackerapi\\migrations\\20250318053016_shra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CD201A5D-F865-4FA2-A112-95BC5FD7B0A6}|HealthFitnessTrackerAPI\\HealthFitnessTrackerAPI.csproj|solutionrelative:healthfitnesstrackerapi\\migrations\\20250318053016_shra.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Wipro\\HealthFitnessTrackerAPIProject\\HealthFitnessTrackerAPI\\Program.cs",
+              "RelativeDocumentMoniker": "HealthFitnessTrackerAPI\\Program.cs",
+              "ToolTip": "D:\\Wipro\\HealthFitnessTrackerAPIProject\\HealthFitnessTrackerAPI\\Program.cs",
+              "RelativeToolTip": "HealthFitnessTrackerAPI\\Program.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAuwHUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T13:55:08.453Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Wipro\\HealthFitnessTrackerAPIProject\\HealthFitnessTrackerAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "HealthFitnessTrackerAPI\\appsettings.json",
+              "ToolTip": "D:\\Wipro\\HealthFitnessTrackerAPIProject\\HealthFitnessTrackerAPI\\appsettings.json",
+              "RelativeToolTip": "HealthFitnessTrackerAPI\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-15T13:55:11.972Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Wipro\\HealthFitnessTrackerAPIProject\\HealthFitnessTrackerAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "HealthFitnessTrackerAPI\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\Wipro\\HealthFitnessTrackerAPIProject\\HealthFitnessTrackerAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "HealthFitnessTrackerAPI\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-15T15:56:43.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "WorkoutController.cs",
+              "DocumentMoniker": "D:\\Wipro\\HealthFitnessTrackerAPIProject\\HealthFitnessTrackerAPI\\Controllers\\WorkoutController.cs",
+              "RelativeDocumentMoniker": "HealthFitnessTrackerAPI\\Controllers\\WorkoutController.cs",
+              "ToolTip": "D:\\Wipro\\HealthFitnessTrackerAPIProject\\HealthFitnessTrackerAPI\\Controllers\\WorkoutController.cs",
+              "RelativeToolTip": "HealthFitnessTrackerAPI\\Controllers\\WorkoutController.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAmwGwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T15:04:11.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\Wipro\\HealthFitnessTrackerAPIProject\\HealthFitnessTrackerAPI\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "HealthFitnessTrackerAPI\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\Wipro\\HealthFitnessTrackerAPIProject\\HealthFitnessTrackerAPI\\Controllers\\UserController.cs",
+              "RelativeToolTip": "HealthFitnessTrackerAPI\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAcwDUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T15:03:52.295Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CalorieController.cs",
+              "DocumentMoniker": "D:\\Wipro\\HealthFitnessTrackerAPIProject\\HealthFitnessTrackerAPI\\Controllers\\CalorieController.cs",
+              "RelativeDocumentMoniker": "HealthFitnessTrackerAPI\\Controllers\\CalorieController.cs",
+              "ToolTip": "D:\\Wipro\\HealthFitnessTrackerAPIProject\\HealthFitnessTrackerAPI\\Controllers\\CalorieController.cs",
+              "RelativeToolTip": "HealthFitnessTrackerAPI\\Controllers\\CalorieController.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAmwG8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T15:04:27.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\Wipro\\HealthFitnessTrackerAPIProject\\HealthFitnessTrackerAPI\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "HealthFitnessTrackerAPI\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\Wipro\\HealthFitnessTrackerAPIProject\\HealthFitnessTrackerAPI\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "HealthFitnessTrackerAPI\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAqwEwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T15:46:41.294Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\Wipro\\HealthFitnessTrackerAPIProject\\HealthFitnessTrackerAPI\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "HealthFitnessTrackerAPI\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\Wipro\\HealthFitnessTrackerAPIProject\\HealthFitnessTrackerAPI\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "HealthFitnessTrackerAPI\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T14:11:38.967Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CalorieLog.cs",
+              "DocumentMoniker": "D:\\Wipro\\HealthFitnessTrackerAPIProject\\HealthFitnessTrackerAPI\\Models\\CalorieLog.cs",
+              "RelativeDocumentMoniker": "HealthFitnessTrackerAPI\\Models\\CalorieLog.cs",
+              "ToolTip": "D:\\Wipro\\HealthFitnessTrackerAPIProject\\HealthFitnessTrackerAPI\\Models\\CalorieLog.cs",
+              "RelativeToolTip": "HealthFitnessTrackerAPI\\Models\\CalorieLog.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T14:17:48.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LoginUser.cs",
+              "DocumentMoniker": "D:\\Wipro\\HealthFitnessTrackerAPIProject\\HealthFitnessTrackerAPI\\Models\\LoginUser.cs",
+              "RelativeDocumentMoniker": "HealthFitnessTrackerAPI\\Models\\LoginUser.cs",
+              "ToolTip": "D:\\Wipro\\HealthFitnessTrackerAPIProject\\HealthFitnessTrackerAPI\\Models\\LoginUser.cs",
+              "RelativeToolTip": "HealthFitnessTrackerAPI\\Models\\LoginUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T15:48:10.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RegisterUser.cs",
+              "DocumentMoniker": "D:\\Wipro\\HealthFitnessTrackerAPIProject\\HealthFitnessTrackerAPI\\Models\\RegisterUser.cs",
+              "RelativeDocumentMoniker": "HealthFitnessTrackerAPI\\Models\\RegisterUser.cs",
+              "ToolTip": "D:\\Wipro\\HealthFitnessTrackerAPIProject\\HealthFitnessTrackerAPI\\Models\\RegisterUser.cs",
+              "RelativeToolTip": "HealthFitnessTrackerAPI\\Models\\RegisterUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T15:47:48.161Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Wipro\\HealthFitnessTrackerAPIProject\\HealthFitnessTrackerAPI\\Models\\User.cs",
+              "RelativeDocumentMoniker": "HealthFitnessTrackerAPI\\Models\\User.cs",
+              "ToolTip": "D:\\Wipro\\HealthFitnessTrackerAPIProject\\HealthFitnessTrackerAPI\\Models\\User.cs",
+              "RelativeToolTip": "HealthFitnessTrackerAPI\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T14:16:59.031Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Workout.cs",
+              "DocumentMoniker": "D:\\Wipro\\HealthFitnessTrackerAPIProject\\HealthFitnessTrackerAPI\\Models\\Workout.cs",
+              "RelativeDocumentMoniker": "HealthFitnessTrackerAPI\\Models\\Workout.cs",
+              "ToolTip": "D:\\Wipro\\HealthFitnessTrackerAPIProject\\HealthFitnessTrackerAPI\\Models\\Workout.cs",
+              "RelativeToolTip": "HealthFitnessTrackerAPI\\Models\\Workout.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T14:17:13.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "20250318053016_shra.cs",
+              "DocumentMoniker": "D:\\Wipro\\HealthFitnessTrackerAPIProject\\HealthFitnessTrackerAPI\\Migrations\\20250318053016_shra.cs",
+              "RelativeDocumentMoniker": "HealthFitnessTrackerAPI\\Migrations\\20250318053016_shra.cs",
+              "ToolTip": "D:\\Wipro\\HealthFitnessTrackerAPIProject\\HealthFitnessTrackerAPI\\Migrations\\20250318053016_shra.cs",
+              "RelativeToolTip": "HealthFitnessTrackerAPI\\Migrations\\20250318053016_shra.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T05:30:17.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20250318055146_shravu.cs",
+              "DocumentMoniker": "D:\\Wipro\\HealthFitnessTrackerAPIProject\\HealthFitnessTrackerAPI\\Migrations\\20250318055146_shravu.cs",
+              "RelativeDocumentMoniker": "HealthFitnessTrackerAPI\\Migrations\\20250318055146_shravu.cs",
+              "ToolTip": "D:\\Wipro\\HealthFitnessTrackerAPIProject\\HealthFitnessTrackerAPI\\Migrations\\20250318055146_shravu.cs",
+              "RelativeToolTip": "HealthFitnessTrackerAPI\\Migrations\\20250318055146_shravu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T05:51:47.195Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "20250316081801_RenameId.cs",
+              "DocumentMoniker": "D:\\Wipro\\HealthFitnessTrackerAPIProject\\HealthFitnessTrackerAPI\\Migrations\\20250316081801_RenameId.cs",
+              "RelativeDocumentMoniker": "HealthFitnessTrackerAPI\\Migrations\\20250316081801_RenameId.cs",
+              "ToolTip": "D:\\Wipro\\HealthFitnessTrackerAPIProject\\HealthFitnessTrackerAPI\\Migrations\\20250316081801_RenameId.cs",
+              "RelativeToolTip": "HealthFitnessTrackerAPI\\Migrations\\20250316081801_RenameId.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T08:18:01.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "20250316093457_fourth.cs",
+              "DocumentMoniker": "D:\\Wipro\\HealthFitnessTrackerAPIProject\\HealthFitnessTrackerAPI\\Migrations\\20250316093457_fourth.cs",
+              "RelativeDocumentMoniker": "HealthFitnessTrackerAPI\\Migrations\\20250316093457_fourth.cs",
+              "ToolTip": "D:\\Wipro\\HealthFitnessTrackerAPIProject\\HealthFitnessTrackerAPI\\Migrations\\20250316093457_fourth.cs",
+              "RelativeToolTip": "HealthFitnessTrackerAPI\\Migrations\\20250316093457_fourth.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T09:34:59.129Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "20250316080844_RenameCalorieLogId.cs",
+              "DocumentMoniker": "D:\\Wipro\\HealthFitnessTrackerAPIProject\\HealthFitnessTrackerAPI\\Migrations\\20250316080844_RenameCalorieLogId.cs",
+              "RelativeDocumentMoniker": "HealthFitnessTrackerAPI\\Migrations\\20250316080844_RenameCalorieLogId.cs",
+              "ToolTip": "D:\\Wipro\\HealthFitnessTrackerAPIProject\\HealthFitnessTrackerAPI\\Migrations\\20250316080844_RenameCalorieLogId.cs",
+              "RelativeToolTip": "HealthFitnessTrackerAPI\\Migrations\\20250316080844_RenameCalorieLogId.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T08:08:45.716Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "20250316063342_AddUserName.cs",
+              "DocumentMoniker": "D:\\Wipro\\HealthFitnessTrackerAPIProject\\HealthFitnessTrackerAPI\\Migrations\\20250316063342_AddUserName.cs",
+              "RelativeDocumentMoniker": "HealthFitnessTrackerAPI\\Migrations\\20250316063342_AddUserName.cs",
+              "ToolTip": "D:\\Wipro\\HealthFitnessTrackerAPIProject\\HealthFitnessTrackerAPI\\Migrations\\20250316063342_AddUserName.cs",
+              "RelativeToolTip": "HealthFitnessTrackerAPI\\Migrations\\20250316063342_AddUserName.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-16T06:33:42.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "20250315184259_FourthCreate.cs",
+              "DocumentMoniker": "D:\\Wipro\\HealthFitnessTrackerAPIProject\\HealthFitnessTrackerAPI\\Migrations\\20250315184259_FourthCreate.cs",
+              "RelativeDocumentMoniker": "HealthFitnessTrackerAPI\\Migrations\\20250315184259_FourthCreate.cs",
+              "ToolTip": "D:\\Wipro\\HealthFitnessTrackerAPIProject\\HealthFitnessTrackerAPI\\Migrations\\20250315184259_FourthCreate.cs",
+              "RelativeToolTip": "HealthFitnessTrackerAPI\\Migrations\\20250315184259_FourthCreate.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T18:43:00.072Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "20250315175636_FixDiscriminator.cs",
+              "DocumentMoniker": "D:\\Wipro\\HealthFitnessTrackerAPIProject\\HealthFitnessTrackerAPI\\Migrations\\20250315175636_FixDiscriminator.cs",
+              "RelativeDocumentMoniker": "HealthFitnessTrackerAPI\\Migrations\\20250315175636_FixDiscriminator.cs",
+              "ToolTip": "D:\\Wipro\\HealthFitnessTrackerAPIProject\\HealthFitnessTrackerAPI\\Migrations\\20250315175636_FixDiscriminator.cs",
+              "RelativeToolTip": "HealthFitnessTrackerAPI\\Migrations\\20250315175636_FixDiscriminator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T17:56:37.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "20250315171247_AddIdentityTables.cs",
+              "DocumentMoniker": "D:\\Wipro\\HealthFitnessTrackerAPIProject\\HealthFitnessTrackerAPI\\Migrations\\20250315171247_AddIdentityTables.cs",
+              "RelativeDocumentMoniker": "HealthFitnessTrackerAPI\\Migrations\\20250315171247_AddIdentityTables.cs",
+              "ToolTip": "D:\\Wipro\\HealthFitnessTrackerAPIProject\\HealthFitnessTrackerAPI\\Migrations\\20250315171247_AddIdentityTables.cs",
+              "RelativeToolTip": "HealthFitnessTrackerAPI\\Migrations\\20250315171247_AddIdentityTables.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T17:12:48.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "20250315170403_Thirdcreate.cs",
+              "DocumentMoniker": "D:\\Wipro\\HealthFitnessTrackerAPIProject\\HealthFitnessTrackerAPI\\Migrations\\20250315170403_Thirdcreate.cs",
+              "RelativeDocumentMoniker": "HealthFitnessTrackerAPI\\Migrations\\20250315170403_Thirdcreate.cs",
+              "ToolTip": "D:\\Wipro\\HealthFitnessTrackerAPIProject\\HealthFitnessTrackerAPI\\Migrations\\20250315170403_Thirdcreate.cs",
+              "RelativeToolTip": "HealthFitnessTrackerAPI\\Migrations\\20250315170403_Thirdcreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T17:04:03.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "20250315164937_SecondCreate.cs",
+              "DocumentMoniker": "D:\\Wipro\\HealthFitnessTrackerAPIProject\\HealthFitnessTrackerAPI\\Migrations\\20250315164937_SecondCreate.cs",
+              "RelativeDocumentMoniker": "HealthFitnessTrackerAPI\\Migrations\\20250315164937_SecondCreate.cs",
+              "ToolTip": "D:\\Wipro\\HealthFitnessTrackerAPIProject\\HealthFitnessTrackerAPI\\Migrations\\20250315164937_SecondCreate.cs",
+              "RelativeToolTip": "HealthFitnessTrackerAPI\\Migrations\\20250315164937_SecondCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T16:49:37.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "HealthFitnessTrackerAPI",
+              "DocumentMoniker": "D:\\Wipro\\HealthFitnessTrackerAPIProject\\HealthFitnessTrackerAPI\\HealthFitnessTrackerAPI.csproj",
+              "RelativeDocumentMoniker": "HealthFitnessTrackerAPI\\HealthFitnessTrackerAPI.csproj",
+              "ToolTip": "D:\\Wipro\\HealthFitnessTrackerAPIProject\\HealthFitnessTrackerAPI\\HealthFitnessTrackerAPI.csproj",
+              "RelativeToolTip": "HealthFitnessTrackerAPI\\HealthFitnessTrackerAPI.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-03-15T16:01:32.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20250315153249_InitialCreate.cs",
+              "DocumentMoniker": "D:\\Wipro\\HealthFitnessTrackerAPIProject\\HealthFitnessTrackerAPI\\Migrations\\20250315153249_InitialCreate.cs",
+              "RelativeDocumentMoniker": "HealthFitnessTrackerAPI\\Migrations\\20250315153249_InitialCreate.cs",
+              "ToolTip": "D:\\Wipro\\HealthFitnessTrackerAPIProject\\HealthFitnessTrackerAPI\\Migrations\\20250315153249_InitialCreate.cs",
+              "RelativeToolTip": "HealthFitnessTrackerAPI\\Migrations\\20250315153249_InitialCreate.cs",
+              "ViewState": "AgIAAHMAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T15:32:49.296Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20250315152841_AddWorkoutAndCalorieLogs.cs",
+              "DocumentMoniker": "D:\\Wipro\\HealthFitnessTrackerAPIProject\\HealthFitnessTrackerAPI\\Migrations\\20250315152841_AddWorkoutAndCalorieLogs.cs",
+              "RelativeDocumentMoniker": "HealthFitnessTrackerAPI\\Migrations\\20250315152841_AddWorkoutAndCalorieLogs.cs",
+              "ToolTip": "D:\\Wipro\\HealthFitnessTrackerAPIProject\\HealthFitnessTrackerAPI\\Migrations\\20250315152841_AddWorkoutAndCalorieLogs.cs",
+              "RelativeToolTip": "HealthFitnessTrackerAPI\\Migrations\\20250315152841_AddWorkoutAndCalorieLogs.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-15T15:28:42.509Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "JHB9CD02fpCqAJXeQDl0G8m9y2hDVnvE2zRO2oo9a5c=",
+  "Source": "HealthFitnessTrackerAPI",
+  "BasePath": "_content/HealthFitnessTrackerAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

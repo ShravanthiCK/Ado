@@ -1,0 +1,6 @@
+@HealthFitnessTrackerAPI_HostAddress = http://localhost:5096
+
+GET {{HealthFitnessTrackerAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
